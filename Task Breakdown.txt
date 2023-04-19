@@ -4,3 +4,4 @@ Task Breakdown :
 2. add filter citywise, movie wise
 3. theater location
 4.
+5. create a dashboard.

@@ -1,5 +1,6 @@
 Task Breakdown :
-booking cancellation
-1.
-2.
-3.
+
+1. add payment details
+2. add filter citywise, movie wise
+3. theater location
+4.

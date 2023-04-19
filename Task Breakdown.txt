@@ -6,3 +6,10 @@ Task Breakdown :
 4. theater AC/Non-AC options.
 5. create a dashboard.
 6. customer reviews and feedback.
+7. Booking Cancellation before 3 hrs.
+8. confirmation of booked ticket.
+9. remainder notifaction before 1 hour.
+10. Type of movie genre.
+11. Critic Reviews
+12. Filter Show Timing.
+13.

@@ -12,4 +12,8 @@ Task Breakdown :
 10. Type of movie genre.
 11. Critic Reviews
 12. Filter Show Timing.
-13.
+13. show movies cast.
+14. customer login page.
+15. customer wishlist of movies.
+16. offers and rewards.
+17. terms and condition show before the booking ticket.

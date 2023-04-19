@@ -29,7 +29,7 @@ show cities
  select beverages
  select payment mode 
  register
- accept regestration datails
+ accept registration datails
  set password
  log in page 
  payment gateway

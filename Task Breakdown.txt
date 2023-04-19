@@ -17,3 +17,30 @@ Task Breakdown :
 15. customer wishlist of movies.
 16. offers and rewards.
 17. terms and condition show before the booking ticket.
+show cities
+ selecct city
+ show bunch of recently realesed movies
+ select movie
+ show the available shows with timings
+ select theatre
+ select show timings 
+ select seats 
+ select food items 
+ select beverages
+ select payment mode 
+ register
+ accept datails
+ set password
+ log in page 
+ payment gateway
+ cancle tickets
+ show refund options
+ select refund options
+ accept acc details
+ refund gateway
+ send booked details to user via mob no
+ add filter movie wise, datewise,timing wise atc.
+ show movie reviews
+ add reviews
+ accept the login details
+ go to respect

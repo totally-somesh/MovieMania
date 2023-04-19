@@ -1,0 +1,123 @@
+
+Date 		: 19th April, 2023 - Wednesday 
+Project Name 	: Online Website For ' Movie Ticket Booking ' Titled As 'MovieMania'
+Project Guide 	: Mr. Ravi Tambade Sir
+Project Members : 	1. Somesh D Dahotre (233096)
+		2. Mohan D Vaidya (233109)
+		3. Pranjali R Borate (233066)
+		4. Aniket N Gonjare (233010)
+		5. Komal Rochlani (233046)
+		6. Sham B Girhe (233039) 
+
+
+Task Breakdown :
+
+1. First Page Deisgn : 
+	~ This task includes HTML / CSS files with attractive design interfaces for all the dashboards.
+
+2. Registration Tab :
+	~ A registration tab should contain all the accesses through GMAIL / FACEBOOK / INSTAGRAM etc.
+
+3. Dashboard Creation :
+	~ A page with options to select dashboards as per the entity i.e. for Theatre Owners / Movie Producers
+	  & Customers.
+
+4. Theatre Owner's Dashboard : 
+	~ This dashboards should focus on all the separate facilities available for Theatre Owners.
+	~ Like Theatre Owner / Management Team have rights to accept or approve the movie requests from 
+	  Movie Producers as per their own criteria.
+
+5. Movie Producer's Dashboard : 
+	~ This dashboard should consider facilities for this particular entity like uploading movie details
+	  & trailers etc.
+	~ This right to update movie details are reserved only for Movie Producers. 
+
+6. Customer's Dashboard : 
+	~ This dashboard should consider facilities for this customer entity.
+
+7. Login Process :
+	~ Login Credentials must be checked in 2 dashboards i.e. for customers & movie producers.
+	~ 2-Step Authentification should be used effectively here. 
+	~ Hence, DB Server should be created to maintain this private data in tabular format.
+
+8. Development Of Bookmarks : 
+	~ This particular page should return the following tabs : Movies | Offers | Contact Us | About Us | Gift Cards
+	~ These options should be tackled separately as per their specialities.
+
+9. About Tab :
+	~ In this tab, all the details of us must be added & should be accessible to everyone.
+
+10. Contact Us Tab : 
+	~ This tab should show all the contact related details including addresses of theatres.
+	~ The format of details should be uniform for all theatres.
+
+11. Offers Tab :
+	~ All the ongoing offers should be shown under this tab. 
+	~ This tab must be updated frequently, so as to return latest ongoing offers.
+
+12. Gift Cards Tab :
+	~ Gift Cards should be shown as per the customer's ticket booking history. 
+	~ This page should be attractive so as to attract young crowd.  
+        ~ Updations of this tab is quite important & should be done properly.
+
+13. Filters For Movies :
+	~ In the tab of Movies, sorting of movies should be city wise, movie wise and timing wise.
+	~ Also, redundency of the results should be minimized as much as possible.
+	~ Here, while 'Time complexity' must be low as much as possible. 
+
+14. Theatre wise Filter : "" mohitlokhande19@gmail.com ""
+	~ There should be a option to search movies theatre wise. 
+	~ If customer wants to search for movies in a particular theatre, this criteria should tackled
+	  properly.   
+
+15. Theatre Locations :
+	~ Under this option, all the Google Map Locations should be retreived & shared with cutomers
+	  after successful ticket booking.
+
+16. AC / Non AC Options :
+	~ While choosing the theatre for movie, If the theatre have the options of AC / Non AC, then
+	  our page should show these options.
+	~ Otherwise by default option will be selected which is available for that particular theatre.
+
+17. Reviews / Ratings :
+	~ Website should have its own portal for taking reviews, feedbacks & ratings from the registered
+	  customers only. 
+	~ Reviews / Ratings should be taken separately for theatres & movies.
+	~ Proper star options & text box for reviews should be used.
+
+18. MovieMania E-Wallet : 
+	~ Our own E-Wallet should be developed in an attractive manner so as to encourage the customers
+	  to use it for hasselfree & quick money transactions.
+	~ This data must be stored in highly secured mannered. 
+
+19. Payment Getway :
+	~ Our website should develop all the online payment options including UPI / Debit Card / Credit Card
+	  E-Wallets / Gift Points etc.
+	~ The whole payment process should be hasselfree & secured.
+
+20. Notification To Customers :
+	~ After successful ticket booking, website should generate QR & an E-Ticket.
+	~ Customers should be notified with this E-Ticket with proper details like show timings / screen
+	  details / Google Map location / Contact Number in case of emergencies etc.
+
+21. Cancellation Policy :
+	~ Website should tackle the ticket cancellation properly.
+
+22. Refund Process :
+	~ As per the cancellation, refund process should be executed safely and should be hasselfree.
+	~ Here, customer should be notified all the details in professional manner.
+
+23. Booking History :
+	~ Booking history should be maintained properly for each & every customer.
+	~ It should be easily accessible for registered customers.
+	~ This history is going to be useful at the time of suggesting the movies to customers.
+
+24. Food & Beverages Facilities :
+	~ A system should be developed by the website to manage a food & beverages delivery inside
+	  the theatre as per customer's orders.
+	~ Records of this should be added properly in the E-Ticket.
+
+25. Thanking Page :
+	~ A thanksgiving page should be designed & shown after customer's logout.
+	~ This page should retreive some facts about movies to engage the customers even after logging off. 
+

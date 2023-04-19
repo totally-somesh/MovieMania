@@ -3,5 +3,6 @@ Task Breakdown :
 1. add payment details
 2. add filter citywise, movie wise
 3. theater location
-4.
+4. theater AC/Non-AC options.
 5. create a dashboard.
+6. customer reviews and feedback.

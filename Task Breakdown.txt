@@ -1,7 +1,7 @@
 Task Breakdown :
 
 1. add payment details
-2. add filter citywise, movie wise
+2. add filter citywise, movie wise, timings wise
 3. theater location
 4. theater AC/Non-AC options.
 5. create a dashboard.
@@ -39,7 +39,7 @@ show cities
  accept acc details
  refund gateway
  send booked details to user via mob no
- add filter movie wise, datewise,timing wise atc.
+ .
  show movie reviews
  add reviews
  accept the login details

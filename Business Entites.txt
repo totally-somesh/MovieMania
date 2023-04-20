@@ -1,0 +1,19 @@
+Business Entities for Online Movie Booking Website
+
+1. City Selection
+
+2. Movie Selection 
+
+3. Movie Time and Seat Collection
+
+4. End User System(Forget Password, login)
+
+5. Payment Option  
+
+6. Cancel Ticket
+
+7. Feedback/Rating
+
+8. Food and Beverages 
+
+ 

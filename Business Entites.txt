@@ -1,5 +1,5 @@
 Business Entities for Online Movie Booking Website
-------------------------------------Customer Entity----------------------
+----------------------Customer Entity----------------------
 1. City Selection
 
 2. Movie Selection 

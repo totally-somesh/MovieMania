@@ -1,5 +1,5 @@
 Business Entities for Online Movie Booking Website
-
+------------------------------------Customer Entity----------------------
 1. City Selection
 
 2. Movie Selection 
@@ -8,12 +8,33 @@ Business Entities for Online Movie Booking Website
 
 4. End User System(Forget Password, login)
 
-5. Payment Option  
+5. Payment Option 
 
 6. Cancel Ticket
 
 7. Feedback/Rating
 
 8. Food and Beverages 
+
+----------------------Producer Entity-----------------------------
+
+1. Theater Selection
+
+2. Upload Trailer
+
+3. Producer Details
+
+4. Movie Description
+
+--------------------Theater Entity----------------------------
+
+1. Selection Movie Type 18+
+
+2. Screen Selection
+
+3. Advierstment shown in interval
+
+4. 
+
 
  
